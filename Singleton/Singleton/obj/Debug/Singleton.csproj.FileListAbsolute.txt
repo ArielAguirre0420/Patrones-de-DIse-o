@@ -1,0 +1,6 @@
+C:\Users\ariel.aguirre\source\repos\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ariel.aguirre\source\repos\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\ariel.aguirre\source\repos\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\ariel.aguirre\source\repos\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\ariel.aguirre\source\repos\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\ariel.aguirre\source\repos\Singleton\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,6 @@
+C:\Users\ariel.aguirre\source\repos\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\ariel.aguirre\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\ariel.aguirre\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\ariel.aguirre\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\ariel.aguirre\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\ariel.aguirre\source\repos\Builder\Builder\obj\Debug\Builder.pdb
