@@ -1,0 +1,6 @@
+C:\Users\ariel.aguirre\source\repos\ChainResponsability\ChainResponsability\bin\Debug\ChainResponsability.exe.config
+C:\Users\ariel.aguirre\source\repos\ChainResponsability\ChainResponsability\bin\Debug\ChainResponsability.exe
+C:\Users\ariel.aguirre\source\repos\ChainResponsability\ChainResponsability\bin\Debug\ChainResponsability.pdb
+C:\Users\ariel.aguirre\source\repos\ChainResponsability\ChainResponsability\obj\Debug\ChainResponsability.csprojAssemblyReference.cache
+C:\Users\ariel.aguirre\source\repos\ChainResponsability\ChainResponsability\obj\Debug\ChainResponsability.exe
+C:\Users\ariel.aguirre\source\repos\ChainResponsability\ChainResponsability\obj\Debug\ChainResponsability.pdb

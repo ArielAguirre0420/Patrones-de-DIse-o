@@ -1,0 +1,6 @@
+C:\Users\ariel.aguirre\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\ariel.aguirre\source\repos\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\ariel.aguirre\source\repos\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\ariel.aguirre\source\repos\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\ariel.aguirre\source\repos\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\ariel.aguirre\source\repos\Strategy\Strategy\obj\Debug\Strategy.pdb
